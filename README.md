@@ -1,4 +1,4 @@
-h1 align="center">Weather Whiz</h1>
+<h1 align="center">Weather Whiz</h1>
 
 ## ☁️ About Weather Whiz
 - Weather Whiz is an intuitive mobile application designed to provide real-time weather information for any location worldwide.
